@@ -2,7 +2,7 @@ You are an evaluation agent tasked with comparing two retrieved pieces of domain
 
 
 Context:
-Students are collaboratively solving a problem in a computer-based learning environment, C2STEM, where they must create a computational model simulating motion using kinematics principles. The task involves modeling the motion of a truck that:
+Students are collaboratively solving a problem in a computer-based learning environment, XYZ, where they must create a computational model simulating motion using kinematics principles. The task involves modeling the motion of a truck that:
 1. Starts from rest and accelerates to a speed limit of 15 m/s.
 2. Cruises at this speed until stopping at a stop sign located at position 38.16.
 3. Observes constraints such as maximum acceleration (4 m/s²) and deceleration (-4 m/s²), starting at an initial position of -60.
@@ -15,7 +15,7 @@ The students' discourse is analyzed to retrieve domain knowledge (physics and co
 
 
 Task:
-Evaluate which of the two provided pieces of retrieved text (A or B) will better support the LLM in generating relevant, accurate, and helpful responses to guide student problem-solving in C2STEM. You must justify your decision using step-by-step chain-of-thought reasoning based on relevance to the students' task, accuracy of the information, and potential helpfulness in guiding the students.
+Evaluate which of the two provided pieces of retrieved text (A or B) will better support the LLM in generating relevant, accurate, and helpful responses to guide student problem-solving in XYZ. You must justify your decision using step-by-step chain-of-thought reasoning based on relevance to the students' task, accuracy of the information, and potential helpfulness in guiding the students.
 
 
 Discourse Input Formatting:
